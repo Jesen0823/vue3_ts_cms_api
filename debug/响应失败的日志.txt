@@ -1,0 +1,51 @@
+请求 URL
+http://localhost:8080/api/goods/category/count
+请求方法
+GET
+状态代码
+404 Not Found
+远程地址
+127.0.0.1:8080
+引用站点策略
+strict-origin-when-cross-origin
+access-control-allow-origin
+connection
+close
+content-length
+9
+content-type
+text/plain; charset=utf-8
+date
+Thu, 16 Apr 2026 06:50:36 GMT
+vary
+Origin
+x-powered-by
+Express
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+authorization
+Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTEsIm5hbWUiOiJKZXNlbjA4MjMiLCJpYXQiOjE3NzYyMzAyMjksImV4cCI6MTc3ODgyMjIyOX0.SDvG1SFZsR-nupeAQhWUUT8vUERuG66f9L6VVt4HfCOHd8PHMrKNkGBwdvK8hw5d6W_8RIeRmUfY_H-XVJy3jt8WznAKVL0oUA4xB-OqW_AmYa1t1TClJXgwS63OgR3ViJXs7I-rdnDa-JTTRGRZxgZ2NLvpWNhRllUS3BBln3g
+connection
+keep-alive
+host
+localhost:8080
+referer
+http://localhost:8080/
+sec-ch-ua
+"Microsoft Edge";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0
