@@ -32,15 +32,15 @@ importers:
       koa-body:
         specifier: ^5.0.0
         version: 5.0.0
-      vue3_ts_cms_api:
-        specifier: 'link:'
-        version: 'link:'
       multer:
         specifier: 1.4.5-lts.1
         version: 1.4.5-lts.1
       mysql2:
         specifier: ^2.3.3
         version: 2.3.3
+      vue3_ts_cms_api:
+        specifier: 'link:'
+        version: 'link:'
     devDependencies:
       '@types/jsonwebtoken':
         specifier: ^8.5.8
